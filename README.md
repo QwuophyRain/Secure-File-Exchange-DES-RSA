@@ -1,7 +1,7 @@
 # Secure Medical Records Exchange System (DES-RSA Hybrid Cryptosystem)
 
 **Course:** CICS 628 - Cryptography with Number Theory
-**Lecturer:** Prof. Eric Amankwa and Dr. Stephen Okrah
+**Lecturers:** Prof. Eric Amankwa and Dr. Stephen Okrah
 **Student & Sole Developer:** Rainsford Kofi Senam
 **GitHub Profile:** [QwuophyRain](https://github.com/QwuophyRain)
 **Project Repository:** [Secure-File-Exchange-DES-RSA](https://github.com/QwuophyRain/Secure-File-Exchange-DES-RSA)
